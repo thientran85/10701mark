@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0069)http://maxebrdi.paragonrels.com/ParagonLS/Content/SessionWarning.html -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Session Warning</title>
+    <style type="text/css">
+        body, td, th
+        {
+	        font-family: Tahoma;
+	        font-size: 14px;
+        }
+        body
+        {
+	        margin: 0px;
+	        padding: 0px;
+        }
+    	h1 { color: #00529B; font-size: 125%; }
+    </style>
+    <script type="text/javascript" src="jquery-1.8.3.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            parent.$('#LogOff').click(function () {
+                parent.logOff();
+            });
+            parent.$('#Refresh').click(function () {
+                parent.popupSession = false;
+                parent.refreshSession();
+                parent.$('#sessionOverlay').hide();
+                if (parent.$('#cboxContent iframe').length == 0)
+                    parent.$('#cboxOverlay').hide();
+            });
+        });
+    </script>
+</head>
+<body>
+<h1>Warning!</h1>
+<ul>
+    <li>Your session is about to expire!</li>
+    <li id="sessionExpire"></li>
+    <li id="sessionRefreshMessage">Please click on 'Refresh' to update your session.</li>
+</ul>
+
+
+</body></html>

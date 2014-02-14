@@ -81,7 +81,7 @@
 							<img class="headerlogo" src="images/teamfastagents.jpg" alt="" />
 
 							<header>
-								<h3 class="alt">Thinking about selling <span class="blackblock"> 4143 Mera St?</span> Let us help! Team Fast Agents is YOUR personal team of professionals who makes Real Estate <span class="blueblock">EASY</span> for <span class="greenblock">YOU.</span></h3>
+								<h3 class="alt">Thinking about selling <span class="blackblock"> 10701 Mark St?</span> Let us help! Team Fast Agents is YOUR personal team of professionals who makes Real Estate <span class="blueblock">EASY</span> for <span class="greenblock">YOU.</span></h3>
 							</header>
 							<iframe src="http://mapsengine.google.com/map/embed?mid=zERNb6ZQT6mM.kvWX6H8LeZas" width="80%" height="480"></iframe>
 							<h3>Proven Results.</h3>
@@ -193,19 +193,19 @@
 						<div class="container">
 							<header>
 								<h2 style="color: #fff;">Comparative Market Analysis</h2>
-								<h3 style="color: #ecf0f1;">Properties sold within area of 4143 Mera St</h3>
+								<h3 style="color: #ecf0f1;">Properties sold within area of 10701 Mark St</h3>
 							</header>
 							<div class="row">
 								<div class="4u">
 									<article class="item">
 										<a href="images/comp1.jpg" class="image full fancybox"><img src="images/comp1.jpg" alt="" /></a>
 										<header>
-										<h3><strong>4101 Carrington St</strong></h3>
+										<h3><strong>3620 Malcolm Ave</strong></h3>
 										<ul>
-											<li>3 Bed - 1.5 Bath</li>
-											<li>1,415 Sq Ft -  5,880 Lot</li>
-											<li>List: 7/5/13 - Sold: 7/19/13</li>
-											<li>List: $399,000 - SOLD $450,000</li>
+											<li>4 Bed - 2.5 Bath</li>
+											<li>2,273 Sq Ft -  8,976 Lot</li>
+											<li>List: 7/11/13 - Sold: 10/8/13</li>
+											<li>List: $529,000 - SOLD $525,000</li>
 										</ul>
 									</article>
 								</div>
@@ -213,12 +213,12 @@
 									<article class="item">
 										<a href="images/comp2.jpg" class="image full fancybox"><img src="images/comp2.jpg" alt="" /></a>
 										<header>
-										<h3><strong>4257 Suter St</strong></h3>
+										<h3><strong>3031 Malcolm Ave</strong></h3>
 										<ul>
 											<li>3 Bed - 2 Bath</li>
-											<li>1,240 Sq Ft - 3,430 Lot</li>
-											<li>List: 8/3/13 - Sold: 9/16/13</li>
-											<li>List: $389,900 - SOLD $430,000</li>
+											<li>1,635 Sq Ft - 8,568 Lot</li>
+											<li>List: 9/6/13 - Sold: 10/18/13</li>
+											<li>List: $549,900 - SOLD $549,000</li>
 										</ul>
 									</article>
 								</div>
@@ -226,18 +226,18 @@
 									<article class="item">
 										<a href="images/comp3.jpg" class="image full fancybox"><img src="images/comp3.jpg" alt="" /></a>
 										<header>
-										<h3><strong>3808 Marion Ave</strong></h3>
+										<h3><strong>53 Maggiora Dr.</strong></h3>
 										<ul>
-											<li>3 Bed - 1.5 Bath</li>
-											<li>1,210 Sq Ft - 2,550 Lot</li>
-											<li>List: 5/17/13 - Sold: 7/26/13</li>
-											<li>List: $359,000 - SOLD $400,000</li>
+											<li>3 Bed - 2.5 Bath</li>
+											<li>2,292 Sq Ft - 5,890 Lot</li>
+											<li>List: 9/17/13 - Sold: 11/15/13</li>
+											<li>List: $529,000 - SOLD $551,145</li>
 										</ul>
 									</article>
 								</div>
 							</div>
 							<br />
-							<a href="http://maxebrdi.paragonrels.com/publink/default.aspx?GUID=142fa192-82b6-49a2-bc60-d44c973fe34d&Report=Yes" class="image full"><img style="width: 100%;" src="images/compdata.jpg" /></a>
+							<a href="http://maxebrdi.paragonrels.com/publink/default.aspx?GUID=1365a272-3fe0-4443-8fb4-3b1bd6da86ef&Report=Yes" class="image full"><img style="width: 100%;" src="images/compdata.jpg" /></a>
 						</div>
 					</section>
 			
